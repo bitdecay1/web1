@@ -1,1 +1,5 @@
-# web1
+# Included languages
+PHP
+HTML
+CSS (bootstrap)
+JS
