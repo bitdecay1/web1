@@ -1,5 +1,5 @@
 # Included languages
-  PHP
-  HTML
-  CSS (bootstrap)
-  JS
+- PHP
+- HTML
+- CSS (bootstrap)
+- JS
