@@ -1,4 +1,4 @@
-# Included languages
+# Used languages
 - PHP
 - HTML
 - CSS (bootstrap)
